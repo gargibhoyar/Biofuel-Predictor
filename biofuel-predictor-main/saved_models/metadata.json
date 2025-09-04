@@ -1,0 +1,13 @@
+{
+  "categorical_features": [
+    "State_Name",
+    "District_Name",
+    "Season",
+    "Crop"
+  ],
+  "numerical_features": [
+    "Area",
+    "Production"
+  ],
+  "target": "Energy_GJ"
+}
